@@ -1,0 +1,4 @@
+@bot.command()
+async def formating(ctx):
+    await ctx.message.delete()
+    await ctx.send(f'```ansi\n[2;40mNAVY BLUE[0m\n[2;31mRED     [2;41m[2;37mORANGE[0m[2;31m[2;41m[0m[2;31m[0m\n[2;32mGREEN     [2;42m[2;37mGRAY 40%[0m[2;32m[2;42m[0m[2;32m[0m\n[2;33mYELLOW     [2;37m[2;43mGRAY 45%[0m[2;37m[0m[2;33m[0m\n[2;34mBLUE     [2;37m[2;44mGRAY 55%[0m[2;37m[0m[2;34m[0m[2;37m\n[0m[2;35mPINK     [2;37m[2;45mBLURPLE[0m[2;37m[0m[2;35m[0m\n[2;35m[2;36mCYAN     [2;37m[2;46mGRAY 60%[0m[2;37m[0m[2;36m[0m[2;35m\n[2;37mWHITE[0m[2;35m[0m     [2;37m[2;47m[2;30mCREAM WHITE[0m[2;37m[2;47m[0m[2;37m[0m```')
