@@ -38,4 +38,4 @@ For any questions, issues, or support regarding Nighty.one  or Any scripts, plea
 
 ## Special thanks to...
 
-Everyone who makes scripts.To every user who use Nighty.one . But also you! :)
+Everyone who makes scripts. To every user who use Nighty.one. But also you! :)
