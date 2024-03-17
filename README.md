@@ -26,12 +26,16 @@ For more detailed instructions on using Nighty scripts, please Conctact me on di
 
 ## Contributing
 
-If you have any improvements or suggestions for the Nighty Script, feel free to contribute!.
+If you have a custom script you'd like to submit, follow these steps:
+
+1. Code the script using `discord.py`.
+2. Send me a DM on Discord @Ohhq.
+3. Wait for my response. :)
 
 ## Support
 
-For any questions, issues, or support regarding NightyBot or this script, please visit the [NightyBot Discord server](https://discord.gg/nighty) and ask in the appropriate channel.
+For any questions, issues, or support regarding Nighty.one  or Any scripts, please Contact me on discord and Describe Any issue.
 
 ## Special thanks to...
 
-Everyone who makes scripts. But also you! :)
+Everyone who makes scripts.To every user who use Nighty.one . But also you! :)
