@@ -2,7 +2,7 @@
 
 <img src="https://nighty.one/assets/images/logo/nighty.png" alt="NightyBot Logo" width="200">
 
-Welcome to the NightyBot Script repository! These custom scripts are designed for use with the Nighty.one Discord Selfbot. With these scripts, you can enhance your Discord Personal experience! [nighty.one](https://nighty.one).
+Welcome to the Custom Nighty Selfbot Scripts repository! These custom scripts are designed for use with the Nighty.one Selfbot. With those scripts, you can enhance your Discord Personal experience! [nighty.one](https://nighty.one).
 
 ## Installation
 
