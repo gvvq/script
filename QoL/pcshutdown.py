@@ -1,5 +1,5 @@
 @bot.command()
-async def shutdown(ctx):
+async def pcshutdown(ctx):
     await ctx.send("```ini\nAre you sure you want to shut down the PC? [(yes/no) ]\n```")
     def check(msg):
         return msg.author == ctx.author and msg.channel == ctx.channel and msg.content.lower() in ["yes", "no"]
