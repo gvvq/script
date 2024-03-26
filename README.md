@@ -12,7 +12,7 @@ To download Nighty.one Custom scripts, simply use the following command:
 (p)shop path/script
 ```
 
-Replace `path/script` with the specific path to the script you want to download.
+Replace `path/script.py` with the specific path to the script you want to download.
 
 ## Usage
 
