@@ -28,7 +28,7 @@ For more detailed instructions on using Nighty scripts, please Conctact me on di
 
 If you have a custom script you'd like to submit, follow these steps:
 
-1. Code the script using `discord.py`.
+1. Code the script using `discord.py` or `discord.py self`.
 2. Send me a DM on Discord @Ohhq.
 3. Wait for my response. :)
 
