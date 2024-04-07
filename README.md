@@ -47,4 +47,4 @@ Everyone who makes scripts. To every user who use Nighty.one. But also you! :)
     | TM @ 2023 Ohhq.lol & Ohhq.gay & Ohhq.mom — All Rights Reserved |
     |      Part II of the Copyright Act, R.S.C., 1985, c. C-42       |
     *----------------------------------------------------------------*
-    You cannot take these scripts and use them in your own selfbot without giving me credit and asking me PERSONALLY.
+   You cannot take these scripts and use them in your own selfbot without giving me credit and asking me PERSONALLY.
