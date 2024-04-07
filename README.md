@@ -39,3 +39,10 @@ For any questions, issues, or support regarding Nighty.one  or Any scripts, plea
 ## Special thanks to...
 
 Everyone who makes scripts. To every user who use Nighty.one. But also you! :)
+
+
+    *----------------------------------------------------------------*
+    |                                                                |
+    | TM @ 2023 Ohhq.lol & Ohhq.gay & Ohhq.mom — All Rights Reserved |
+    |      Part II of the Copyright Act, R.S.C., 1985, c. C-42       |
+    *----------------------------------------------------------------*
