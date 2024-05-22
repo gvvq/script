@@ -9,7 +9,7 @@ Welcome to the Custom Nighty Selfbot Scripts repository! These custom scripts ar
 To download Nighty.one Custom scripts, simply use the following command:
 
 ```
-(p)shop path/script
+(p)shop path/script.py
 ```
 
 Replace `path/script.py` with the specific path to the script you want to download.
