@@ -22,19 +22,19 @@ Once you have downloaded the desired script, you can integrate it with your Nigh
 2. Restart your Nighty.
 3. Use the appropriate command to activate the newly installed script.
 
-For more detailed instructions on using Nighty scripts, please Conctact me on discord!.
+For more detailed instructions on using Nighty scripts, please conctact me on discord!.
 
 ## Contributing
 
 If you have a custom script you'd like to submit, follow these steps:
 
 1. Code the script using `discord.py` or `discord.py self`.
-2. Send me a DM on Discord @Ohhq.
-3. Wait for my response. :)
+2. Open a PR or an issue
+3. Wait for Ohhq or MYHM's response. :)
 
 ## Support
 
-For any questions, issues, or support regarding Nighty.one  or Any scripts, please Contact me on discord and Describe Any issue.
+For any questions, issues, or support regarding Nighty.one or any scripts, please open an issue and describe any issue.
 
 ## Special thanks to...
 
