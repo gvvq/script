@@ -4,3 +4,5 @@ async def reminder(ctx, minutes: int, text: str):
     await ctx.nighty_send(title="Reminder", content=f'Reminder set! I will remind you about `{text}` in `{minutes}` minutes!')
     await asyncio.sleep(minutes*60)
     await ctx.nighty_send(title="Reminder", content=text)
+
+#MYHM 398620861634183188

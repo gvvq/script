@@ -28,3 +28,5 @@ addDRPCValue("custom_time", customCurrentTime)
 addDRPCValue("weathericon", currentWeatherIcon)
 addDRPCValue("temperature", currentWeatherTemp)
 addDRPCValue("humidity", currentWeatherHumidity)
+
+#MYHM 398620861634183188
